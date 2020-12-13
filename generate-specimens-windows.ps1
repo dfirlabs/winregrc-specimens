@@ -23,3 +23,11 @@ $WindowsShell.SendKeys("%{F4}")
 Start-Sleep -Seconds 1.0
 
 $WindowsShell.SendKeys("%S")
+
+# TODO: experiment with different focus durations
+
+# TODO: open notepad.exe using Deskop LNK
+# TODO: open some using non-Deskop LNK
+# TODO: open non exe using LNK
+# TODO: open LNK via PIDL
+
