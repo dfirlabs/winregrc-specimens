@@ -30,4 +30,3 @@ $WindowsShell.SendKeys("%S")
 # TODO: open some using non-Deskop LNK
 # TODO: open non exe using LNK
 # TODO: open LNK via PIDL
-

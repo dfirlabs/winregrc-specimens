@@ -9,4 +9,3 @@ COPY write.exe .
 COPY generate-specimens-windows.ps1 .
 
 # RUN powershell.exe -File generate-specimens-windows.ps1
-

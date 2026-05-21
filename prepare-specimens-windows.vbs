@@ -9,4 +9,3 @@ WindowsShell.RegDelete "HKEY_CURRENT_USER\Software\Microsoft\Windows\Currentvers
 
 WindowsShell.RegDelete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\BagMRU"
 WindowsShell.RegDelete "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Shell\Bags"
-
