@@ -11,8 +11,10 @@ jobs:
     - uses: actions/checkout@v6
     - name: Generate test data
       run: |
-        .\prepare-specimens-windows.ps1
+        .\clean-specimens-windows.ps1
+        .\export-specimens-windows.ps1
         .\generate-specimens-windows.ps1
+        .\export-specimens-windows.ps1
     - uses: actions/upload-artifact@v7
       with:
         name: specimens-windows
